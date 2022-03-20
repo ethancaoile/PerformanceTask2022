@@ -9,4 +9,5 @@ Instructions to run project.
 1) Download Visual Studio Community.  https://visualstudio.microsoft.com/vs/community/
 2) Install and launch Visual Studio
 3) Choose "Clone a Repository" under "Get Started"
-4) Paste the git location url under "Repository Location".  
+4) Paste the git location url under "Repository Location".  https://github.com/ethancaoile/PerformanceTask2022.git
+5) Apply your Github credentials if asked.
