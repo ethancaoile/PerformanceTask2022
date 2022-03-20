@@ -1,5 +1,6 @@
 ﻿// PerformanceTask.cpp : Defines the entry point for the application.
 //
+// Test commit
 
 #include "PerformanceTask.h"
 
